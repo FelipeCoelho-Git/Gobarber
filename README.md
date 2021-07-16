@@ -4,19 +4,13 @@
 <h1 align="center">
     <img alt="GoBarber" title="#delicinha" src=".github/gobarber.png" width="250px" />
     
-</h1>
-
-<h4 align="center">
-  🚀 Desafio GoBarber 11.0
-</h4>
-
-
-
 <br>
 
-## 💻 Projeto
+## 🖥️ Project 🖥️
 
-Esse projeto foi desenvolvido durante o Bootcamp da Rocketseat. Trata-se de um projeto fullstack para uma barbearia ficticia, a GoBarber, o projeto consiste na parte frontend(React), mobile(React Native) e backend(NodeJs).
+This project was be developed during a Bootcamp of RocktSeat.
+    
+    <br>
 
 ## 🎨 Layout
 
