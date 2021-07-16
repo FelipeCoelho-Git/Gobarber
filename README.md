@@ -19,7 +19,8 @@
 
 
 
-🛠 Tecnologies
+### 🛠 Tecnologies
+
 These are the technologies used:
 
 - [Typescript](https://www.typescriptlang.org/)
