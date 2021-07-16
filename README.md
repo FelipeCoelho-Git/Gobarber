@@ -13,9 +13,8 @@
 
 ## 🎨 Layout
 
-<p align="center">
-    <img alt="GoBarber" title="#GoBarber" src=".github/capa.png" width="720px" />
-</p>
+![Captura de tela 2021-07-16 181934](https://user-images.githubusercontent.com/83052668/126010876-5a28a293-3264-406d-a6f0-289947087291.png)
+
 
 
 
