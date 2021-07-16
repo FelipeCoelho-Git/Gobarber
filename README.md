@@ -7,7 +7,7 @@
 <br>
 
 ## 🖥️ Project 🖥️
-<h3>This project was be developed during a Bootcamp of RocktSeat.
+<h3>This project was be developed during a Bootcamp of RocktSeat. 🔎 I discovered many things with this app.
     
 <br>
     <br>
