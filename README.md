@@ -10,21 +10,6 @@
   🚀 Desafio GoBarber 11.0
 </h4>
 
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/WallysonGalvao/rocketseat-gobarber">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/WallysonGalvao/rocketseat-gobarber">
-  
-  <a href="https://github.com/WallysonGalvao/rocketseat-gobarber/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/WallysonGalvao/rocketseat-gobarber">
-  </a>
-
-  <a href="https://github.com/WallysonGalvao/rocketseat-gobarber/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/WallysonGalvao/rocketseat-gobarber">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-</p>
 
 
 <br>
