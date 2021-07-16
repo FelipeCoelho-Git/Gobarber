@@ -31,7 +31,10 @@ These are the technologies used:
 - [React](https://reactjs.org/) | [React Native](https://reactnative.dev/)
 - [Docker](https://www.docker.com/)
 - [PostgreSQL](https://www.postgresql.org/) | [TypeORM](https://typeorm.io/)
-
+    
+    
+ 
+Where I learnned: [**RocktSeat**](https://app.rocketseat.com.br/)
 
 
 
