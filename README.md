@@ -17,11 +17,10 @@
     <img alt="GoBarber" title="#GoBarber" src=".github/capa.png" width="720px" />
 </p>
 
-Você pode utilizar a seguinte URL para visualizar todas as telas: [Visualizar](https://www.figma.com/file/BXCihtXXh9p37lGsENV614/GoBarber?node-id=34%3A1180)
 
-## :rocket: Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+🛠 Tecnologies
+These are the technologies used:
 
 - [Typescript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/en/) | [Express](https://expressjs.com/pt-br/)
