@@ -7,10 +7,9 @@
 <br>
 
 ## 🖥️ Project 🖥️
-
-This project was be developed during a Bootcamp of RocktSeat.
+<h5>This project was be developed during a Bootcamp of RocktSeat.
     
-    <br>
+
 
 ## 🎨 Layout
 
