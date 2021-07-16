@@ -15,6 +15,9 @@
 ## 🎨 Layout
 
 ![Captura de tela 2021-07-16 181934](https://user-images.githubusercontent.com/83052668/126010876-5a28a293-3264-406d-a6f0-289947087291.png)
+![home](https://user-images.githubusercontent.com/83052668/126010961-0eed0cf8-6f17-47de-a190-a27be056188c.png)
+![go barber](https://user-images.githubusercontent.com/83052668/126010964-79a967c3-5cc4-40b5-83fa-4a5503eea215.png)
+
 
 
 
