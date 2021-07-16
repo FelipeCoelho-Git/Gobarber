@@ -19,7 +19,7 @@
 ![home](https://user-images.githubusercontent.com/83052668/126010961-0eed0cf8-6f17-47de-a190-a27be056188c.png)
 
 
-
+<br>
 
 
 ### 🛠 Tecnologies
