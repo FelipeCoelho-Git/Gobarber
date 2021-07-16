@@ -56,38 +56,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Docker](https://www.docker.com/)
 - [PostgreSQL](https://www.postgresql.org/) | [TypeORM](https://typeorm.io/)
 
-## :notebook: Executando
 
-Dentro do **README** de cada subpasta do projeto é detalhado como executar as aplicações separadamente.
 
-```bash
-# Clone este repositório
-$ git clone https://github.com/WallysonGalvao/rocketseat-gobarber.git
 
-# Acesse a pasta do projeto no seu terminal/cmd
-$ cd rocketseat-gobarber/backend
 
-# Instale as dependências
-$ yarn install
-
-# Execute a aplicação
-$ yarn start
-```
-
-Realizar os comandos acima para as demais pastas **[frontend e backend]**.
-
-## :construction: Como contribuir para o projeto
-
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-awesome-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My awesome feature"`
-4. Envie as suas alterações: `git push origin my-awesome-feature`
-   > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com horas em frente ao :computer: por [Wallyson Galvão](https://www.linkedin.com/in/wallyson-galvao/)
