@@ -32,7 +32,8 @@ These are the technologies used:
 - [Docker](https://www.docker.com/)
 - [PostgreSQL](https://www.postgresql.org/) | [TypeORM](https://typeorm.io/)
     
-    
+    <br>
+    <br>
  
 Where I learnned: [**RocktSeat**](https://app.rocketseat.com.br/)
 
